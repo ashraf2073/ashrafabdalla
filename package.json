@@ -1,0 +1,13 @@
+{
+  "name": "ashraf-portfolio",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Ashraf Abdalla portfolio with a Gmail-powered contact form",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
